@@ -1,7 +1,10 @@
 <h1 align="center"> Hi there 👋, I'm Shreyas  </h1>
 <h4 align="center">I'm a Computer Science undergraduate student from India</h4>
+<br
 
-
+- 🔭 I’m currently learning ReactJS
+- 📫 How to reach me: shreyasp0924@gmail.com.
+- ⚡ Ask me about anything 😁
 <br>
 
 *Connect with me*  
