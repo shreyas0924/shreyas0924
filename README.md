@@ -2,7 +2,7 @@
 <h4 align="center">I'm a Computer Science undergraduate student from India</h4>
 <br
 
-- 🔭 I’m currently learning React
+- 🔭 I’m currently learning Solidity & React  
 - 📫 How to reach me: shreyasp0924@gmail.com.
 - ⚡ Ask me about anything 😁
 <br>
