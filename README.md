@@ -27,7 +27,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas0924&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/shreyas0924/github-readme-stats)   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyas0924&theme=tokyonight&hide_border=true)<br/>
-![Leetcode Stats](https://leetcard.jacoblin.cool/shreyasp0924) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas0924&theme=tokyonight&layout=compact&show_icons=true&hide_border=true)](https://github.com/shreyas0924/github-readme-stats)
 
 
