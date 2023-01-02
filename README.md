@@ -9,9 +9,16 @@
 
 *Connect with me*  
 
-<a href="https://twitter.com/Shreyas0924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shreyas0924" height="30" width="40" /></a> <a href="https://linkedin.com/in/shreyas-p-854252201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-p-854252201" height="30" width="40" /></a>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/Shreyas0924?style=social)
 
 
+
+<!-- <a href="https://twitter.com/Shreyas0924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shreyas0924" height="30" width="40" /></a> 
+
+<a href="https://linkedin.com/in/shreyas-p-854252201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-p-854252201" height="30" width="40" /></a>
+
+ -->
 
 <br>
 
